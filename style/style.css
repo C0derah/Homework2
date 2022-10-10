@@ -1,0 +1,62 @@
+
+
+.list {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.list-item {
+    margin: 0px 60px 0px 0px;
+    font-size: 14px;
+    list-style-type: none;
+    color: rgba(255, 255, 255, 0.3);  
+}
+
+.main {
+    background-color: black;
+    width: 1440px;
+    height: 1074px;
+}
+
+.container {
+    background-color: black;
+    width: 1171px;
+    height: 552px;
+    
+}
+
+.aside {
+    width: 442px;
+    height: 390px;
+}
+
+.img {
+    width: 679px;
+    height: 482px;
+    margin: 176px 134px 416px 626px;
+}
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 200px;
+    height: 50px;
+    margin: 20px;
+}
+
+.video {
+    display: flex;
+    margin: -775px 310px 1258px 309px;
+    
+}
+
+.dot-completed {
+    display: flex;
+    margin: -900px 1263px 414px 135px;
+}
+
+
+
